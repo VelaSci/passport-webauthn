@@ -35,12 +35,15 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "base64-arraybuffer": "^1.0.2",
     "base64url": "^3.0.1",
     "cbor": "^8.1.0",
     "clone": "^2.1.2",
     "cose-to-jwk": "^1.1.0",
+    "i": "^0.3.7",
     "jwk-to-pem": "^2.0.5",
     "jws": "^4.0.0",
+    "npm": "^11.3.0",
     "passport-strategy": "1.x.x"
   },
   "devDependencies": {
