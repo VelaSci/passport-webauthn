@@ -1,6 +1,6 @@
 {
   "name": "@velasci/passport-fido2-webauthn",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "WebAuthn authentication strategy for Passport.",
   "keywords": [
     "passport",
