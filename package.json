@@ -1,5 +1,5 @@
 {
-  "name": "passport-fido2-webauthn",
+  "name": "@velasci/passport-fido2-webauthn",
   "version": "0.1.0",
   "description": "WebAuthn authentication strategy for Passport.",
   "keywords": [
@@ -56,5 +56,6 @@
   },
   "scripts": {
     "test": "node_modules/.bin/mocha test/*.test.js"
-  }
+  },
+  "types": "types/index.d.ts"
 }
